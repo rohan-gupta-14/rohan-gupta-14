@@ -1,3 +1,9 @@
+# 💫 Hi 👋, I'm Rohan Gupta
+- 🔭 **I’m currently working on:** 
+- 🌱 **I’m currently learning:** Artificial Intelligence and Machine Learning
+- 📫 **How to reach me:** rohangupta.xiv@gmail.com
+- 😄 **Pronouns:** Captan
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 # 💫 About Me:
 Developer | Problem Solver | Open Source Enthusiast<br>I build things with code and occasionally they work on the first try. Passionate about clean architecture, meaningful contributions, and learning something new every day.<br>Currently exploring: Artificial Intelligence and Machine Learning<br>💼 Open to collaboration on interesting projects<br>📫 Reach me at: rohangupta.xiv@gamil.com
 
